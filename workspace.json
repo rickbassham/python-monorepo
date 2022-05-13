@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "common": {
+      "path": "packages/common",
+      "type": "poetry"
+    },
+    "svc1": {
+      "path": "services/svc1",
+      "type": "poetry"
+    }
+  }
+}
